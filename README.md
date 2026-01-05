@@ -27,12 +27,6 @@ This project is intentionally kept simple to stay beginner-friendly.
 ```javac TinyTitans.java```
 4️⃣ Run the Game
 ```java TinyTitans```
-5️⃣ Play
-Follow prompts to move through rooms, fight enemies, or exit
-Watch health updates, combat outcomes, and win/lose messages in real time
-📱 Built 100% on Mobile
-This project was written entirely on a phone, without a laptop or IDE.
-It proves that learning and building is possible even with limited tools.
 ## ☕ Support the Project
 If you found this project helpful or inspiring, you can support my work here:
 👉 Ko-fi: https://ko-fi.com/javamaster
